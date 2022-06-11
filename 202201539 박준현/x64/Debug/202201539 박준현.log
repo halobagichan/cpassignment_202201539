@@ -1,0 +1,8 @@
+﻿  avg.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+C:\Users\a6455\Desktop\202201539 박준현\main.cpp(46): warning C4715: 'read_conf': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\a6455\Desktop\202201539 박준현\main.cpp(30): warning C4715: 'read_country': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\a6455\Desktop\202201539 박준현\main.cpp(21): warning C4172: 지역 변수 또는 임시: arr의 주소를 반환하고 있습니다.
+C:\Users\a6455\Desktop\202201539 박준현\main.cpp(24): warning C4172: 지역 변수 또는 임시: arr의 주소를 반환하고 있습니다.
+  202201539 박준현.vcxproj -> C:\Users\a6455\Desktop\202201539 박준현\x64\Debug\main.exe
